@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Information Science Engineering student who enjoys solving real-world problems through technology.I love building machine learning models, exploring data-driven solutions. I am also a passionate DSA problem solver with strong proficiency in C++, always striving to write clean, efficient, and optimized code.I aim to combine creativity with logic to build impactful and scalable tech solution.
+I'm a Information Science Engineering student who enjoys solving real_world problems through technology.I love building machine learning models, exploring data-driven solutions. I am also a passionate DSA problem solver with strong proficiency in C++, always striving to write clean, efficient, and optimized code.I aim to combine creativity with logic to build impactful and scalable tech solution.
 
 
 ## 🌐 Socials:
